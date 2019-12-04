@@ -1,0 +1,36 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+
+#h1{
+    text-align: center;
+}
+
+#startBtn{
+    margin-left: 525px;
+    width: 10%;
+    padding: 0px;
+    height: 20px;
+    margin-top: 10px;
+    font-size: 12px;
+}
+
+.start{
+    display: contents;
+}
+
+.hide{
+    display: none;
+}
+
+#score{
+    width: 10%;
+    padding: 0px;
+    height: 20px;
+    margin-top: 10px;
+    font-size: 12px;
+}
+
